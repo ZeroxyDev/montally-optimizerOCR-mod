@@ -4,6 +4,9 @@
 
 MonTally OCR Optimizer is a mod for PokeMMO that enhances the visibility of Pokémon encounter text, making it more easily recognizable by MonTally and other encounter counters that use OCR (Optical Character Recognition) technology.
 
+
+![Captura de pantalla 2025-04-30 001929](https://github.com/user-attachments/assets/907b45fc-2bc2-4661-ad08-acb4518151fd)
+
 ## Features
 
 - Adds a background to Pokémon encounter text
