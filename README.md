@@ -1,4 +1,4 @@
-# MonTally OCR Optimizer for PokeMMO
+# MonTally OCR Optimizer Mod for PokeMMO
 
 ## Overview
 
